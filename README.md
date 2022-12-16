@@ -6,3 +6,4 @@ Hello啊，这里是***佳明的小屋***，他的前身**安迪的小屋**已�
 
 目前还在测试阶段，想看的东西别着急！你着急的话要不帮我测试一下？
 [点这里](https://github.com/JaminAndyChan/JaminAndyChan.github.io/releases/tag/Blog)
+点开发现是英文不要紧，我留了中文提示。
