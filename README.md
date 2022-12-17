@@ -7,12 +7,12 @@ Hello啊，这里是`佳明的小屋`，他的前身`安迪的小屋`已经关�
 
 目前还在测试阶段，想看的东西别着急！你着急的话要不帮我测试一下？→[点这里](https://github.com/JaminAndyChan/JaminAndyChan.github.io/releases/tag/Blog)，点开后发现是英文不要紧，我留了中文提示，根据提示进行操作就可以了！
 ### 使用之前说明！
-因为`GitHub`的性质，网络环境不好可能打不开，我的建议是你多尝试几遍或者切换个好一点的网
+因为`GitHub`的性质，网络环境不好可能打不开，我的建议是你多刷新几遍或者换个好一点的网……
 
 ## 2022年12月17日 凌晨更新（勉强能看的那种）
-[看狠活儿来这](https://github.com/JaminAndyChan/henhuoer.github.io)<p>
-什么？想看作者女装？啊这……<p>
-[作者的分享空间](https://github.com/JaminAndyChan/jaminssharespace)<p>
+[看狠活儿来这](https://github.com/JaminAndyChan/henhuoer.github.io)  <p>
+什么？想看作者女装？啊这……  <p>
+[作者的分享空间](https://github.com/JaminAndyChan/jaminssharespace)  <p>
 都说了没有作者的女装照片啦……！
 
 ## 作者说两句
@@ -23,3 +23,6 @@ print("作者是大帅哥")
      你 V 作者 50 RMB
      #这个代码不会有人相信吧……
 ```
+
+## 友情链接
+这里好像还没有`友情链接`呢
