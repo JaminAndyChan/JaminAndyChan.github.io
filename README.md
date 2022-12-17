@@ -10,10 +10,10 @@ Hello啊，这里是`佳明的小屋`，他的前身`安迪的小屋`已经关�
 因为`GitHub`的性质，网络环境不好可能打不开，我的建议是你多刷新几遍或者换个好一点的网……
 
 ## 2022年12月17日 凌晨更新（勉强能看的那种）
-[看狠活儿来这](https://github.com/JaminAndyChan/henhuoer.github.io)  <p>
-什么？想看作者女装？啊这……  <p>
-[作者的分享空间](https://github.com/JaminAndyChan/jaminssharespace)  <p>
-都说了没有作者的女装照片啦……！
+### 网络狠活儿
+→[点这儿](https://github.com/JaminAndyChan/henhuoer.github.io)
+### 作者的分享空间
+→[点这儿](https://github.com/JaminAndyChan/jaminssharespace)
 
 ## 作者说两句
 >啊？说什么说？—— Jamin Chan
@@ -25,4 +25,6 @@ print("作者是大帅哥")
 ```
 
 ## 友情链接
-这里好像还没有`友情链接`呢
+**→**[Markdown官方教程](https://markdown.com.cn/)  
+**→**[我的B站主页](https://space.bilibili.com/93802538)  
+**→**联系方式: `haitaotaoyi@gmail.com`，留言请备注`来自小屋访客的留言`
