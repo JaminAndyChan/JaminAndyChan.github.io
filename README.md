@@ -13,7 +13,7 @@ Hello啊，这里是`佳明的小屋`，他的前身`安迪的小屋`已经关�
 ### 网络狠活儿
 →[点这儿](https://github.com/JaminAndyChan/henhuoer.github.io)
 ### 作者的分享空间
-→[点这儿](https://github.com/JaminAndyChan/jaminssharespace)
+→[点这儿](https://github.com/JaminAndyChan/jaminssharespace.github.io)
 
 ## 作者说两句
 >啊？说什么说？—— Jamin Chan
